@@ -16,7 +16,7 @@
 
 Développeur et configurateur de **serveurs de jeu** : Counter-Strike, Minecraft et FiveM / GTA V.
 Je reprends aussi de vieux mods **Counter-Strike: Source** abandonnés depuis des années (2012-2013)
-et je les fais tourner de nouveau sur le CS:S d'aujourd'hui : **SourceMod 1.12**, serveurs **64 bits**, bugs et failles corrigés.
+et je les fais tourner de nouveau sur le CS:S d'aujourd'hui : **SourceMod 1.12**, serveurs **64 bits**.
 
 - 🖥️ Installation et configuration de serveurs **Counter-Strike**, **Minecraft** et **FiveM / GTA V**
 - 🏥 Je travaille sur **AsylumRP**
