@@ -10,7 +10,7 @@
 
 ---
 
-<img src="assets/ainz.gif" align="right" width="350" style="border-radius:12px"/>
+<img src="assets/ainz-v2.gif" align="right" width="350" style="border-radius:12px"/>
 
 ### 💀 Salut, moi c'est Panda
 
@@ -44,7 +44,7 @@ et je les fais tourner de nouveau sur le CS:S d'aujourd'hui : **SourceMod 1.12**
 
 ---
 
-<img src="assets/albedo.gif" align="left" width="350" style="border-radius:12px"/>
+<img src="assets/albedo-v2.gif" align="left" width="350" style="border-radius:12px"/>
 
 ### 🛠️ Outils
 
